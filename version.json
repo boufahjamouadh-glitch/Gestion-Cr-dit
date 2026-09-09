@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "urlTelechargement": "https://github.com/boufahjamouadh-glitch/Gestion-Cr-dit/releases/download/v1.2.1/GestionCreditSetup.exe",
-  "notes": "Gestion des crédits",
+  "version": "1.3.0",
+  "urlTelechargement": "https://github.com/boufahjamouadh-glitch/Gestion-Cr-dit/releases/download/1.3.0/GestionCreditSetup.exe",
+  "notes": "Amélioration de la visualisation des tableaux de crédits et de paiements pour les clients et les fournisseurs. Ajout de la compatibilité avec les bases de données SQLite, PostgreSQL et MySQL/MariaDB afin d'élargir les possibilités d'intégration de l'application avec différents serveurs de bases de données.",
   "type": "installer"
 }
